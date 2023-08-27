@@ -1,0 +1,2 @@
+# PythonProjectStockExchangeDataVisualization
+Asignment for Python Project
